@@ -5,4 +5,7 @@ public class Test1 {
 		System.out.println("test");
 	}
 
+	public void m2(){
+		
+			
 }

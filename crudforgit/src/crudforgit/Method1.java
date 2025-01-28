@@ -5,7 +5,6 @@ public class Method1
     {
       
     }
-    method4(){
-    }
+    
     
   }
